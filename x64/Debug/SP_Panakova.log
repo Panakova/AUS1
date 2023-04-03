@@ -1,0 +1,104 @@
+﻿  main.cpp
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\implicit_sequence.h(66,1): warning C4250: 'ds::amt::ImplicitSequence<Area *>': inherits 'ds::amt::ImplicitAbstractMemoryStructure<DataType>::ds::amt::ImplicitAbstractMemoryStructure<DataType>::assign' via dominance
+          with
+          [
+              DataType=Area *
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\abstract_memory_type.h(82,8): message : see declaration of 'ds::amt::ImplicitAbstractMemoryStructure<DataType>::assign'
+          with
+          [
+              DataType=Area *
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\SP_Panakova\Alg.h(14,1): message : see reference to class template instantiation 'ds::amt::ImplicitSequence<Area *>' being compiled
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\implicit_sequence.h(66,1): warning C4250: 'ds::amt::ImplicitSequence<Area *>': inherits 'ds::amt::ImplicitAbstractMemoryStructure<DataType>::ds::amt::ImplicitAbstractMemoryStructure<DataType>::clear' via dominance
+          with
+          [
+              DataType=Area *
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\abstract_memory_type.h(83,8): message : see declaration of 'ds::amt::ImplicitAbstractMemoryStructure<DataType>::clear'
+          with
+          [
+              DataType=Area *
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\implicit_sequence.h(66,1): warning C4250: 'ds::amt::ImplicitSequence<Area *>': inherits 'ds::amt::AbstractMemoryStructure<ds::amt::MemoryBlock<DataType>>::ds::amt::AbstractMemoryStructure<ds::amt::MemoryBlock<DataType>>::size' via dominance
+          with
+          [
+              DataType=Area *
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\abstract_memory_type.h(57,10): message : see declaration of 'ds::amt::AbstractMemoryStructure<ds::amt::MemoryBlock<DataType>>::size'
+          with
+          [
+              DataType=Area *
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\implicit_sequence.h(66,1): warning C4250: 'ds::amt::ImplicitSequence<Area *>': inherits 'ds::amt::AbstractMemoryStructure<ds::amt::MemoryBlock<DataType>>::ds::amt::AbstractMemoryStructure<ds::amt::MemoryBlock<DataType>>::isEmpty' via dominance
+          with
+          [
+              DataType=Area *
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\abstract_memory_type.h(58,8): message : see declaration of 'ds::amt::AbstractMemoryStructure<ds::amt::MemoryBlock<DataType>>::isEmpty'
+          with
+          [
+              DataType=Area *
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\implicit_sequence.h(66,1): warning C4250: 'ds::amt::ImplicitSequence<Area *>': inherits 'ds::amt::ImplicitAbstractMemoryStructure<DataType>::ds::amt::ImplicitAbstractMemoryStructure<DataType>::equals' via dominance
+          with
+          [
+              DataType=Area *
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\abstract_memory_type.h(84,8): message : see declaration of 'ds::amt::ImplicitAbstractMemoryStructure<DataType>::equals'
+          with
+          [
+              DataType=Area *
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\implicit_sequence.h(66,1): warning C4250: 'ds::amt::ImplicitSequence<Area>': inherits 'ds::amt::ImplicitAbstractMemoryStructure<DataType>::ds::amt::ImplicitAbstractMemoryStructure<DataType>::assign' via dominance
+          with
+          [
+              DataType=Area
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\abstract_memory_type.h(82,8): message : see declaration of 'ds::amt::ImplicitAbstractMemoryStructure<DataType>::assign'
+          with
+          [
+              DataType=Area
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\SP_Panakova\Alg.h(16,1): message : see reference to class template instantiation 'ds::amt::ImplicitSequence<Area>' being compiled
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\implicit_sequence.h(66,1): warning C4250: 'ds::amt::ImplicitSequence<Area>': inherits 'ds::amt::ImplicitAbstractMemoryStructure<DataType>::ds::amt::ImplicitAbstractMemoryStructure<DataType>::clear' via dominance
+          with
+          [
+              DataType=Area
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\abstract_memory_type.h(83,8): message : see declaration of 'ds::amt::ImplicitAbstractMemoryStructure<DataType>::clear'
+          with
+          [
+              DataType=Area
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\implicit_sequence.h(66,1): warning C4250: 'ds::amt::ImplicitSequence<Area>': inherits 'ds::amt::AbstractMemoryStructure<ds::amt::MemoryBlock<DataType>>::ds::amt::AbstractMemoryStructure<ds::amt::MemoryBlock<DataType>>::size' via dominance
+          with
+          [
+              DataType=Area
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\abstract_memory_type.h(57,10): message : see declaration of 'ds::amt::AbstractMemoryStructure<ds::amt::MemoryBlock<DataType>>::size'
+          with
+          [
+              DataType=Area
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\implicit_sequence.h(66,1): warning C4250: 'ds::amt::ImplicitSequence<Area>': inherits 'ds::amt::AbstractMemoryStructure<ds::amt::MemoryBlock<DataType>>::ds::amt::AbstractMemoryStructure<ds::amt::MemoryBlock<DataType>>::isEmpty' via dominance
+          with
+          [
+              DataType=Area
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\abstract_memory_type.h(58,8): message : see declaration of 'ds::amt::AbstractMemoryStructure<ds::amt::MemoryBlock<DataType>>::isEmpty'
+          with
+          [
+              DataType=Area
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\implicit_sequence.h(66,1): warning C4250: 'ds::amt::ImplicitSequence<Area>': inherits 'ds::amt::ImplicitAbstractMemoryStructure<DataType>::ds::amt::ImplicitAbstractMemoryStructure<DataType>::equals' via dominance
+          with
+          [
+              DataType=Area
+          ]
+C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\DataStructures\libds\amt\abstract_memory_type.h(84,8): message : see declaration of 'ds::amt::ImplicitAbstractMemoryStructure<DataType>::equals'
+          with
+          [
+              DataType=Area
+          ]
+  SP_Panakova.vcxproj -> C:\Users\RPanakova\Documents\UNIZA\AUS-VS2022\DataStructures\x64\Debug\SP_Panakova.exe
